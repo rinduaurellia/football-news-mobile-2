@@ -95,7 +95,6 @@ class MyHomePage extends StatelessWidget {
 
 class InfoCard extends StatelessWidget {
   // Kartu informasi yang menampilkan title dan content.
-
   final String title;  // Judul kartu.
   final String content;  // Isi kartu.
 
